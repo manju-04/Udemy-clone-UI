@@ -3,7 +3,7 @@
 A simple front-end clone of the Udemy website built using **HTML** and **CSS**. This project is aimed at practicing layout, styling, and responsiveness.
 
 ## 🌐 Live Demo
-[Click here to view](https://your-github-username.github.io/udemy-clone/)  
+[Click here to view](https://manju-04.github.io/Udemy-clone-UI/)  
 
 
 ## 🚀 Features

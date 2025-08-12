@@ -180,7 +180,7 @@ body {
   padding: 2%;
   left:3%;
   animation-name: zoom;
-  animation-duration: 2s;
+  animation-duration: 1s;
   opacity: 0;
   animation-fill-mode: forwards;
 }
@@ -195,4 +195,5 @@ body {
     transform: scale(1);
     opacity: 1;
   }
+
 }
